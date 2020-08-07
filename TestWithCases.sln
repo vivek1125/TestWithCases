@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestWithCases", "VivekBank\TestWithCases.csproj", "{FB2EE4A0-5074-4C4F-90F4-72319C121DE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTestProject1", "MSTestProject1\MSTestProject1.csproj", "{5A7A3B95-AC95-4140-8A61-C5E8EF3E0B21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2EE4A0-5074-4C4F-90F4-72319C121DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2EE4A0-5074-4C4F-90F4-72319C121DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2EE4A0-5074-4C4F-90F4-72319C121DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2EE4A0-5074-4C4F-90F4-72319C121DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7A3B95-AC95-4140-8A61-C5E8EF3E0B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7A3B95-AC95-4140-8A61-C5E8EF3E0B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7A3B95-AC95-4140-8A61-C5E8EF3E0B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7A3B95-AC95-4140-8A61-C5E8EF3E0B21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CE9C67D-A813-4909-8BBA-409C3867CF19}
+	EndGlobalSection
+EndGlobal

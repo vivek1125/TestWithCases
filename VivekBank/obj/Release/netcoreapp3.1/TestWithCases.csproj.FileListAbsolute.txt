@@ -1,0 +1,12 @@
+C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\bin\Release\netcoreapp3.1\TestWithCases.exe
+C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\bin\Release\netcoreapp3.1\TestWithCases.deps.json
+C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\bin\Release\netcoreapp3.1\TestWithCases.runtimeconfig.json
+C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\bin\Release\netcoreapp3.1\TestWithCases.runtimeconfig.dev.json
+C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\bin\Release\netcoreapp3.1\TestWithCases.dll
+C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\bin\Release\netcoreapp3.1\TestWithCases.pdb
+C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\obj\Release\netcoreapp3.1\TestWithCases.AssemblyInfoInputs.cache
+C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\obj\Release\netcoreapp3.1\TestWithCases.AssemblyInfo.cs
+C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\obj\Release\netcoreapp3.1\TestWithCases.csproj.CoreCompileInputs.cache
+C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\obj\Release\netcoreapp3.1\TestWithCases.dll
+C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\obj\Release\netcoreapp3.1\TestWithCases.pdb
+C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\obj\Release\netcoreapp3.1\TestWithCases.genruntimeconfig.cache
