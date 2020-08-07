@@ -10,3 +10,4 @@ C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\obj\Release\netcoreapp
 C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\obj\Release\netcoreapp3.1\TestWithCases.dll
 C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\obj\Release\netcoreapp3.1\TestWithCases.pdb
 C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\obj\Release\netcoreapp3.1\TestWithCases.genruntimeconfig.cache
+C:\Users\vivek.d.raj\source\repos\TestWithCases\VivekBank\obj\Release\netcoreapp3.1\TestWithCases.csprojAssemblyReference.cache
