@@ -4,7 +4,8 @@ namespace TestWithCases
     {
     public class VivekBank
     {
-        private string name1;
+        private string name2;
+        private string name3;
         private string customerName;
         private double balance;
 
