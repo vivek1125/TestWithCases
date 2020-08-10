@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="9364384d-3227-441e-bd95-63678daa591e" name="vivek.d.raj@BDC7-D-FQ12RG2 2020-08-07 14:12:38" runUser="DIR\vivek.d.raj" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2020-08-07T14:12:38.2171636+05:30" queuing="2020-08-07T14:12:38.2171636+05:30" start="2020-08-07T14:12:33.7450604+05:30" finish="2020-08-07T14:12:38.3587938+05:30" />
+  <TestSettings name="default" id="39f46591-1caf-4f0f-b093-cee0a71a2745">
+    <Deployment runDeploymentRoot="vivek.d.raj_BDC7-D-FQ12RG2_2020-08-07_14_12_38" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="70864a44-fff0-4fbc-a854-fb66ba7d6ad7" testId="effd678e-84aa-45a5-235f-f504e85fee7f" testName="DebitForNegative" computerName="BDC7-D-FQ12RG2" duration="00:00:00.0018443" startTime="2020-08-07T14:12:36.5194507+05:30" endTime="2020-08-07T14:12:36.5215533+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="70864a44-fff0-4fbc-a854-fb66ba7d6ad7" />
+    <UnitTestResult executionId="45d710e9-f93a-46c0-9381-fbd8312c6858" testId="0f7bb8a3-3cba-0e6b-00a9-131d556312dd" testName="DebitBalance" computerName="BDC7-D-FQ12RG2" duration="00:00:00.0066476" startTime="2020-08-07T14:12:36.4575509+05:30" endTime="2020-08-07T14:12:36.5063423+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="45d710e9-f93a-46c0-9381-fbd8312c6858" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="DebitForNegative" storage="c:\users\vivek.d.raj\source\repos\testwithcases\mstestproject1\bin\release\netcoreapp3.1\mstestproject1.dll" id="effd678e-84aa-45a5-235f-f504e85fee7f">
+      <Execution id="70864a44-fff0-4fbc-a854-fb66ba7d6ad7" />
+      <TestMethod codeBase="C:\Users\vivek.d.raj\source\repos\TestWithCases\MSTestProject1\bin\Release\netcoreapp3.1\MSTestProject1.dll" adapterTypeName="executor://mstestadapter/v2" className="MSTestProject1.BankAccTest" name="DebitForNegative" />
+    </UnitTest>
+    <UnitTest name="DebitBalance" storage="c:\users\vivek.d.raj\source\repos\testwithcases\mstestproject1\bin\release\netcoreapp3.1\mstestproject1.dll" id="0f7bb8a3-3cba-0e6b-00a9-131d556312dd">
+      <Execution id="45d710e9-f93a-46c0-9381-fbd8312c6858" />
+      <TestMethod codeBase="C:\Users\vivek.d.raj\source\repos\TestWithCases\MSTestProject1\bin\Release\netcoreapp3.1\MSTestProject1.dll" adapterTypeName="executor://mstestadapter/v2" className="MSTestProject1.BankAccTest" name="DebitBalance" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="effd678e-84aa-45a5-235f-f504e85fee7f" executionId="70864a44-fff0-4fbc-a854-fb66ba7d6ad7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0f7bb8a3-3cba-0e6b-00a9-131d556312dd" executionId="45d710e9-f93a-46c0-9381-fbd8312c6858" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>

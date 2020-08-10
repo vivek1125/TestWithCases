@@ -6,7 +6,7 @@ namespace MSTestProject1
     public class BankAccTest
     {
         [TestMethod]
-        public void Debit_WithValidAmount_UpdatesBalance()
+        public void DebitBalance()
         {
             // Arrange
             double beginningBalance = 14.56;
@@ -16,6 +16,17 @@ namespace MSTestProject1
             account.Debit(debitAmount);
             double actual = account.Balance;
             Assert.AreEqual(expected, actual, 0.001, "Account not debited correctly");
+        }
+        [TestMethod]
+        public void DebitForNegative()
+        {
+            // Arrange
+            double beginningBalance = 12.99;
+            double debitAmount = -100.00;
+            VivekBank account = new VivekBank("Mr. Vivek raj", beginningBalance);
+
+            // Act and assert
+            Assert.ThrowsException<System.ArgumentOutOfRangeException>(() => account.Debit(debitAmount));
         }
     }
 }
