@@ -4,7 +4,6 @@ namespace TestWithCases
     {
     public class VivekBank
     {
-        sdfdfsfgsdfgsdgsdrf
         private string customerName;
         private double balance;
 
